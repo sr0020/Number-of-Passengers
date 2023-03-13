@@ -1,4 +1,5 @@
 # 서울특별시 지하철 호선별 역별 시간대별 승하차 인원 
+# 해당 코드는 UI 생성 제외한 부분만 포함하고 있음
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
