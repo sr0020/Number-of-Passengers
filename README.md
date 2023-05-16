@@ -21,7 +21,7 @@
 ![img](img/Num%20of%20Passengers.png)
 - 최종 (UI 및 시각화/수치화 된 데이터. (3호선 고속터미널 예시))
 ![img](img/UI.png) 
-![img](img/result_bargraph.png)
+![img](img/result_bargraph_.png)
 ![img](img/total_num_of_passengers.png)
 
 
